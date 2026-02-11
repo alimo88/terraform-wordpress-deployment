@@ -1,4 +1,4 @@
-Deploy WordPress Using Terraform
+# Deploy WordPress Using Terraform
 
 ## Overview
 
@@ -99,7 +99,7 @@ The screenshot below confirms:
 
 ### WordPress Installation Screen
 
-![WordPress Installer](screenshots/wordpress-installer.png)
+![alt text](image.png)
 
 ---
 
@@ -124,8 +124,3 @@ This removes the EC2 instance and associated infrastructure from AWS.
 * Modular Terraform design
 * Infrastructure lifecycle management
 
----
-
-This version is clean, professional, and aligned with typical marking criteria without sounding overly theoretical.
-
-If you’d like, I can also give you a very short submission summary paragraph you can paste into your coursework portal description.
