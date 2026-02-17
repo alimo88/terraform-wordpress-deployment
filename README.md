@@ -56,9 +56,6 @@ terraform-assignment1/
         └── outputs.tf
 ```
 
-* The **root module** configures the AWS provider and invokes the EC2 module.
-* The **EC2 module** provisions the instance, security group, and user data configuration.
-
 ---
 
 ## Deployment Instructions
@@ -110,8 +107,6 @@ To destroy all provisioned resources:
 ```bash
 terraform destroy
 ```
-
-This removes the EC2 instance and associated infrastructure from AWS.
 
 ---
 
